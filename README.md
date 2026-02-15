@@ -153,6 +153,7 @@
   </tr>
   <tr>
     <td><img src="Wallpapers/berserk.png" width="400"/></td>
+    <td><img src="Wallpapers/multi-colored-eyes.png" width="400"/></td>
   </tr>
 </table>
 
