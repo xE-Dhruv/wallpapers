@@ -162,7 +162,14 @@
     <td><img src="Wallpapers/020.png" width="400"/></td>
   </tr>
   <tr>
+    <td><img src="Wallpapers/021.png" width="400"/></td>
+    <td><img src="Wallpapers/022.png" width="400"/></td>
     <td><img src="Wallpapers/sigrika.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/cantarella.png" width="400"/></td>
+    <td><img src="Wallpapers/retro.png" width="400"/></td>
+    <td><img src="Wallpapers/.png" width="400"/></td>
   </tr>
 </table>
 
