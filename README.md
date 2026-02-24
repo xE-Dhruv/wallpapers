@@ -173,6 +173,7 @@
   </tr>
   <tr>
     <td><img src="Wallpapers/pink_trees.png" width="400"/></td>
+    <td><img src="Wallpapers/023.png" width="400"/></td>
   </tr>
 </table>
 
