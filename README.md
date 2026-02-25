@@ -179,6 +179,7 @@
   <tr>
     <td><img src="Wallpapers/nier.png" width="400"/></td>
     <td><img src="Wallpapers/tokyo_street.png" width="400"/></td>
+    <td><img src="Wallpapers/minimal_1.png" width="400"/></td>
   </tr>
 </table>
 
