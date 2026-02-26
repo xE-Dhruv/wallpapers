@@ -181,5 +181,13 @@
     <td><img src="Wallpapers/tokyo_street.png" width="400"/></td>
     <td><img src="Wallpapers/minimal_1.png" width="400"/></td>
   </tr>
+   <tr>
+    <td><img src="Wallpapers/anime-2.png" width="400"/></td>
+    <td><img src="Wallpapers/anime_skull_girl.png" width="400"/></td>
+    <td><img src="Wallpapers/cat_girl.png" width="400"/></td>
+  </tr>
+   <tr>
+    <td><img src="Wallpapers/girl_plus_rocket.png" width="400"/></td>
+  </tr>
 </table>
 
