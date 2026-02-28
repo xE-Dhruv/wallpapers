@@ -194,6 +194,7 @@
    <tr>
     <td><img src="walls/dragonfish.png" width="400"/></td>
     <td><img src="walls/cat-on-bench.png" width="400"/></td>
+     <td><img src="walls/retro-2.png" width="400"/></td>
   </tr>
 </table>
 
