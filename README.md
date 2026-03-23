@@ -208,6 +208,7 @@
   </tr>
   <tr>
     <td><img src="walls/paper-plane.png" width="400"/></td>
+    <td><img src="walls/025.png" width="400"/></td>
   </tr>
 </table>
 
